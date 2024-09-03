@@ -1,0 +1,2 @@
+# Camera-Manifest
+Camera-Manifest
