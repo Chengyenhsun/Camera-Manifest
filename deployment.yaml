@@ -18,7 +18,7 @@ spec:
         app: camerademo
     spec:
       containers:
-      - image: iris91/images:app-18
+      - image: iris91/images:app-19
         name: camerademo
         resources: {}
 status: {}
